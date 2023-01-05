@@ -1,0 +1,22 @@
+{
+  "name": "joda",
+  "version": "1.0.0",
+  "description": "Som \"yoda\", men på Norsk!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ungtb10d/Joda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ungtb10d/Joda/issues"
+  },
+  "homepage": "https://github.com/ungtb10d/Joda#readme",
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}
